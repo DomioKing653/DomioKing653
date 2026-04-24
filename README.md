@@ -1,4 +1,8 @@
 ## Hi there 👋
+Iam Domio, iam just 14 and i'am currently working on my compiler called Vertex:https://github.com/DomioKing65/Vertex
+I worked with langauages like C#, Python, Go, and mainly Rust. Iam currently focusing on developing Vertex and any help would be really apriciated ❤️, i you wanna help you can loot at the repo.
+
+
 
 <!--
 **DomioKing653/DomioKing653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
